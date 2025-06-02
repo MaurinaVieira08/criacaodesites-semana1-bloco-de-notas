@@ -1,0 +1,5 @@
+Aula dia 1 (Criação de sites)
+
+HTML- linguagem para criar páginas na web.
+
+Programação- arte de criar instruções detalhadas e específicas, atraves de códigos.
