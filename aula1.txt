@@ -3,3 +3,35 @@ Aula dia 1 (Criação de sites)
 HTML- linguagem para criar páginas na web.
 
 Programação- arte de criar instruções detalhadas e específicas, atraves de códigos.
+
+Tags de organização:
+
+<div>- container genérico do bloco
+<span>- conteiner de linha
+<header>- cabeçalho da página
+<nav>- navegação
+<main>- conteúdo principal
+<footer>- rodapé
+<section>-n seção de conteúdo
+<article>- artigo independente
+<form>- formulário
+
+Tags de escrita:
+
+<h1>-<h6>- títulos e subtítulos
+<p>- parágrafo
+<a>- link
+<img>- imagem 
+<ul>- lista não ordenada
+<ol>- lista ordenada
+<li>- item da lista
+
+Grid system:
+
+o que é- sistema de Layout.
+utilização- dividir a página em até 12 partes.
+como funciona- cada linha é criada com a (classe.row) e dentro da linha você 
+
+principais classes- .col, .col-6, 
+
+
